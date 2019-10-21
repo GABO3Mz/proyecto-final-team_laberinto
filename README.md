@@ -10,8 +10,8 @@ Integrantes - (Usuarios Github:):
 1.- <b>nombre_completo1</b><br>
     <i>usuario_github1</i>
 
-2.- <b>nombre_completo2</b><br>
-    <i>usuario_github2</i>
+2.- <b>nombre_completopp2:Gabriel Alexander Espinoza Gervassi</b><br>
+    <i>usuario_github2</i>GABO3Mz
 
 3.- <b>nombre_completo3: Alexandra Amy Zevallos Carhuamaca</b><br>
     <i>usuario_github3: alexandra-zevallos</i>
